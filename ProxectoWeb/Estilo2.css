@@ -9,7 +9,9 @@
    height: 600px;
    background-color: #FFFF00;
   }
-
+    p{
+      color: red;
+    }
   #div2 {
    width: 400px;
    height: 400px;
